@@ -10,3 +10,15 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 ## Tech Stack & Tools
 * **Primary Language:** C / C++
 * **Platform:** [LeetCode](https://leetcode.com/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
