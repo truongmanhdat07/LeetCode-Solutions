@@ -30,4 +30,8 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
