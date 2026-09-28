@@ -27,6 +27,7 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,12 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
