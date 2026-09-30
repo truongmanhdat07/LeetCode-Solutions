@@ -20,6 +20,7 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | [0014-longest-common-prefix](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,8 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
