@@ -1,8 +1,6 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(nullptr);
 
         int res = 0;
         int rightVal = 0; 
