@@ -26,9 +26,11 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
@@ -39,6 +41,7 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
