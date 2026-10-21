@@ -22,6 +22,7 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | [0027-remove-element](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@ A curated repository of my daily LeetCode problem-solving journey, focusing on m
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/truongmanhdat07/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
